@@ -25,5 +25,5 @@
             "email": "marc@lebr1.fr"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
