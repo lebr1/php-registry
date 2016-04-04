@@ -13,7 +13,7 @@ composer require 'composer require lebr1/php-registry:dev-master'
 # Usage
 
 ```
-$registry =  = ArrayRegistry::getInstance();
+$registry = Lebr1\Registry\ArrayRegistry::getInstance();
 $registry->set('person','John Doe');
 $person = $registry->get('person');
 if ($registry->has('person')) {
