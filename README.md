@@ -7,7 +7,7 @@ Another PHP implementation of the registry pattern
 
 ```
 cd <your project>
-composer require 'composer require lebr1/php-registry:dev-master'
+composer require 'lebr1/php-registry:dev-master'
 ```
 
 # Usage
